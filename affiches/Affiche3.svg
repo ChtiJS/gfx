@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="595px" height="842px" viewBox="0 0 595 842" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Affiche3</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Affiche3" sketch:type="MSArtboardGroup" font-size="64" font-family="Courier New" font-weight="bold">
+            <text id="chtiJS_8" sketch:type="MSTextLayer">
+                <tspan x="13" y="66" fill="#000000">chtiJS_8</tspan>
+                <tspan x="320" y="66" font-size="31" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="13" y="138" font-size="18" font-weight="normal" fill="#9B9B9B">.what(function(){</tspan>
+                <tspan x="13" y="158" font-size="18" font-weight="normal" fill="#9B9B9B">    this.talkAbout("</tspan>
+                <tspan x="13" y="66" font-size="18" font-weight="normal" fill="#9B9B9B">	</tspan>
+                <tspan x="13" y="198" font-size="18" font-weight="normal" fill="#9B9B9B">    ");</tspan>
+                <tspan x="13" y="218" font-size="18" font-weight="normal" fill="#9B9B9B">}).when(function(){</tspan>
+                <tspan x="13" y="238" font-size="18" font-weight="normal" fill="#9B9B9B">    this.date = "</tspan>
+                <tspan x="197" y="238" font-size="31" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="13" y="258" font-size="31" font-weight="normal" fill="#000000">  </tspan>
+                <tspan x="50.2060547" y="258" font-family="Gill Sans" font-size="36" font-weight="normal" fill="#000000">le XX/XX/2014</tspan>
+                <tspan x="280" y="258" font-size="36" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="13" y="300" font-size="18" font-weight="normal" fill="#9B9B9B">    ";</tspan>
+                <tspan x="13" y="320" font-size="18" font-weight="normal" fill="#9B9B9B">    this.time = "</tspan>
+                <tspan x="197" y="320" font-size="18" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="13" y="340" font-size="18" font-weight="normal" fill="#000000">    </tspan>
+                <tspan x="56.2070312" y="340" font-family="Gill Sans" font-size="36" font-weight="normal" fill="#000000">vers 19h / 19h30</tspan>
+                <tspan x="301" y="340" font-size="18" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="13" y="381" font-size="18" font-weight="normal" fill="#9B9B9B">     ";</tspan>
+                <tspan x="13" y="401" font-size="18" font-weight="normal" fill="#9B9B9B">}).where(function(){</tspan>
+                <tspan x="13" y="421" font-size="18" font-weight="normal" fill="#9B9B9B">    this.place = "</tspan>
+                <tspan x="207" y="421" font-size="18" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="13" y="441" font-family="Gill Sans" font-size="36" font-weight="normal" sketch:alignment="right" fill="#000000">    au MUTUALAB</tspan>
+                <tspan x="13" y="482" font-family="Gill Sans" font-size="24" font-weight="normal" sketch:alignment="right" fill="#000000">      19, rue Nicolas Leblanc à LILLE</tspan>
+                <tspan x="13" y="510" font-size="18" font-weight="normal" sketch:alignment="right" fill="#9B9B9B">    ";</tspan>
+                <tspan x="13" y="530" font-size="18" font-weight="normal" fill="#9B9B9B">}).info(function(){</tspan>
+                <tspan x="13" y="550" font-size="18" font-weight="normal" fill="#9B9B9B">   this.website = "</tspan>
+                <tspan x="218" y="550" font-size="31" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="13" y="570" font-size="36" font-weight="normal" fill="#000000">   </tspan>
+                <tspan x="77.8105469" y="570" font-family="Gill Sans" font-size="36" font-weight="normal" fill="#000000">http://chtijs.francejs.org</tspan>
+                <tspan x="418" y="570" font-size="36" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="13" y="614" font-size="18" font-weight="normal" fill="#9B9B9B">   ";</tspan>
+                <tspan x="13" y="634" font-size="18" font-weight="normal" fill="#9B9B9B">  </tspan>
+                <tspan x="34.6035156" y="634" font-size="18" fill="#9B9B9B"> </tspan>
+                <tspan x="45.4052734" y="634" font-size="18" font-weight="normal" fill="#9B9B9B">this.twitterAccount = "</tspan>
+                <tspan x="294" y="634" font-size="31" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="13" y="654" font-size="31" font-weight="normal" fill="#000000">   </tspan>
+                <tspan x="68.809082" y="654" font-family="Gill Sans" font-size="31" font-weight="normal" fill="#000000">@chtijs</tspan>
+                <tspan x="165" y="654" font-size="31" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="13" y="691" font-size="18" font-weight="normal" fill="#9B9B9B">   ";</tspan>
+                <tspan x="13" y="711" font-size="18" font-weight="normal" fill="#9B9B9B">});</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
