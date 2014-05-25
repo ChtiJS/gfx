@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595px" height="842px" viewBox="0 0 595 842" enable-background="new 0 0 595 842" xml:space="preserve">
+<rect id="background_x5F_color" y="384.5" opacity="0.1" fill="#575747" width="595" height="457.5"/>
+<rect x="20" y="417.5" fill="none" width="553" height="415.5"/>
+<text id="meeting_x5F_infos" transform="matrix(1 0 0 1 20 434.2197)"><tspan x="0" y="0" font-family="'Verdana'" font-size="22">{</tspan><tspan x="0" y="26.4" font-family="'Verdana'" font-size="22" letter-spacing="28">	</tspan><tspan x="36" y="26.4" font-family="'Verdana'" font-size="22">&quot;meeting&quot; </tspan><tspan x="153.874" y="26.4" font-family="'Verdana'" font-size="22" letter-spacing="18">	</tspan><tspan x="180" y="26.4" font-family="'Verdana'" font-size="22">:</tspan><tspan x="189.99" y="26.4" font-family="'Verdana'" font-size="22" letter-spacing="18">	</tspan><tspan x="216" y="26.4" font-family="'Verdana'" font-size="22">&quot;ChtiJS #X&quot;,</tspan><tspan x="0" y="52.8" font-family="'Verdana'" font-size="22" letter-spacing="28">	</tspan><tspan x="36" y="52.8" font-family="'Verdana'" font-size="22">&quot;datetime&quot;</tspan><tspan x="154.1" y="52.8" font-family="'Verdana'" font-size="22" letter-spacing="18">	</tspan><tspan x="180" y="52.8" font-family="'Verdana'" font-size="22">:</tspan><tspan x="189.99" y="52.8" font-family="'Verdana'" font-size="22" letter-spacing="18">	</tspan><tspan x="216" y="52.8" font-family="'Verdana'" font-size="22">&quot;2014-XX-XX 19:30:00&quot;,</tspan><tspan x="492.042" y="52.8" font-family="'Verdana'" font-size="22" letter-spacing="4">	</tspan><tspan x="0" y="79.2" font-family="'Verdana'" font-size="22" letter-spacing="28">	</tspan><tspan x="36" y="79.2" font-family="'Verdana'" font-size="22">&quot;entrance&quot;</tspan><tspan x="152.982" y="79.2" font-family="'Verdana'" font-size="22" letter-spacing="19">	</tspan><tspan x="180" y="79.2" font-family="'Verdana'" font-size="22">:</tspan><tspan x="189.99" y="79.2" font-family="'Verdana'" font-size="22" letter-spacing="18">	</tspan><tspan x="216" y="79.2" font-family="'Verdana'" font-size="22">&quot;free&quot;,</tspan><tspan x="0" y="105.601" font-family="'Verdana'" font-size="22" letter-spacing="28">	</tspan><tspan x="36" y="105.601" font-family="'Verdana'" font-size="22">&quot;beer&quot;</tspan><tspan x="105.502" y="105.601" font-family="'Verdana'" font-size="22" letter-spacing="-5">	</tspan><tspan x="108" y="105.601" font-family="'Verdana'" font-size="22" letter-spacing="28">		</tspan><tspan x="180" y="105.601" font-family="'Verdana'" font-size="22">:</tspan><tspan x="189.99" y="105.601" font-family="'Verdana'" font-size="22" letter-spacing="18">	</tspan><tspan x="216" y="105.601" font-family="'Verdana'" font-size="22">&quot;2€&quot;,</tspan><tspan x="0" y="132" font-family="'Verdana'" font-size="22" letter-spacing="28">	</tspan><tspan x="36" y="132" font-family="'Verdana'" font-size="22">&quot;place&quot; : {</tspan><tspan x="0" y="158.4" font-family="'Verdana'" font-size="22" letter-spacing="28">		</tspan><tspan x="72" y="158.4" font-family="'Verdana'" font-size="22">&quot;name&quot; </tspan><tspan x="161.568" y="158.4" font-family="'Verdana'" font-size="22" letter-spacing="10">	</tspan><tspan x="180" y="158.4" font-family="'Verdana'" font-size="22" letter-spacing="28">	</tspan><tspan x="216" y="158.4" font-family="'Verdana'" font-size="22">:</tspan><tspan x="225.99" y="158.4" font-family="'Verdana'" font-size="22" letter-spacing="18">	</tspan><tspan x="252" y="158.4" font-family="'Verdana'" font-size="22">&quot;Mutualab - Coworking&quot;,</tspan><tspan x="0" y="184.8" font-family="'Verdana'" font-size="22" letter-spacing="28">		</tspan><tspan x="72" y="184.8" font-family="'Verdana'" font-size="22">&quot;address&quot; </tspan><tspan x="185.975" y="184.8" font-family="'Verdana'" font-size="22" letter-spacing="22">	</tspan><tspan x="216" y="184.8" font-family="'Verdana'" font-size="22">:</tspan><tspan x="225.99" y="184.8" font-family="'Verdana'" font-size="22" letter-spacing="18">	</tspan><tspan x="252" y="184.8" font-family="'Verdana'" font-size="22">&quot;19, rue Nicolas Leblanc&quot;,</tspan><tspan x="0" y="211.2" font-family="'Verdana'" font-size="22" letter-spacing="28">		</tspan><tspan x="72" y="211.2" font-family="'Verdana'" font-size="22">&quot;city&quot; </tspan><tspan x="139.117" y="211.2" font-family="'Verdana'" font-size="22" letter-spacing="-2">	</tspan><tspan x="144" y="211.2" font-family="'Verdana'" font-size="22" letter-spacing="28">		</tspan><tspan x="216" y="211.2" font-family="'Verdana'" font-size="22">:</tspan><tspan x="225.99" y="211.2" font-family="'Verdana'" font-size="22" letter-spacing="18">	</tspan><tspan x="252" y="211.2" font-family="'Verdana'" font-size="22">&quot;Lille - République&quot;</tspan><tspan x="0" y="237.601" font-family="'Verdana'" font-size="22" letter-spacing="28">	</tspan><tspan x="36" y="237.601" font-family="'Verdana'" font-size="22">},</tspan><tspan x="0" y="264" font-family="'Verdana'" font-size="22" letter-spacing="28">	</tspan><tspan x="36" y="264" font-family="'Verdana'" font-size="22">&quot;infos&quot; : {</tspan><tspan x="0" y="290.4" font-family="'Verdana'" font-size="22" letter-spacing="28">		</tspan><tspan x="72" y="290.4" font-family="'Verdana'" font-size="22">&quot;web&quot;</tspan><tspan x="137.012" y="290.4" font-family="'Verdana'" font-size="22">	</tspan><tspan x="144" y="290.4" font-family="'Verdana'" font-size="22" letter-spacing="28">	</tspan><tspan x="180" y="290.4" font-family="'Verdana'" font-size="22">:</tspan><tspan x="189.99" y="290.4" font-family="'Verdana'" font-size="22" letter-spacing="18">	</tspan><tspan x="216" y="290.4" font-family="'Verdana'" font-size="22">&quot;chtijs.francejs.org&quot;,</tspan><tspan x="0" y="316.8" font-family="'Verdana'" font-size="22" letter-spacing="28">		</tspan><tspan x="72" y="316.8" font-family="'Verdana'" font-size="22">&quot;twitter&quot;</tspan><tspan x="164.737" y="316.8" font-family="'Verdana'" font-size="22" letter-spacing="7">	</tspan><tspan x="180" y="316.8" font-family="'Verdana'" font-size="22">:</tspan><tspan x="189.99" y="316.8" font-family="'Verdana'" font-size="22" letter-spacing="18">	</tspan><tspan x="216" y="316.8" font-family="'Verdana'" font-size="22">&quot;@chtijs&quot;</tspan><tspan x="0" y="343.2" font-family="'Verdana'" font-size="22" letter-spacing="28">	</tspan><tspan x="36" y="343.2" font-family="'Verdana'" font-size="22">}</tspan><tspan x="0" y="369.601" font-family="'Verdana'" font-size="22">}</tspan></text>
+<rect y="295.499" fill="none" width="595" height="108"/>
+<text id="title" transform="matrix(1 0 0 1 20.5918 314.8301)">
+	<tspan x="0" y="0" fill="#575747" font-family="'ArialMT'" font-size="27">La Communauté des développeurs JavaScript</tspan>
+	<tspan x="140.346" y="32.4" fill="#575747" font-family="'ArialMT'" font-size="27">du Nord Pas-de-Calais</tspan>
+</text>
+<g id="logo-chtijs">
+		<path id="backgroung" fill="#DCDCCC" stroke="#ACAC9D" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M394.048,104.095c2.999-1.752,5.376-0.251,5.376,3.126l-0.374,104.299c0,3.503-2.501,7.63-5.504,9.379l-91.044,51.9
+		c-3.002,1.751-7.878,1.627-10.88,0l-90.668-52.526c-3.003-1.75-5.378-6.001-5.378-9.38l0.375-104.174
+		c0-3.502,2.5-4.877,5.377-3.127l90.669,52.526c3,1.751,7.879,1.751,10.879,0L394.048,104.095z"/>
+	<path id="hexa-back" fill="#8A8A7B" d="M239.472,143.489c0-3.127,2.127-6.878,4.752-8.378l48.774-28.515
+		c2.626-1.5,7.004-1.626,9.629-0.125l49.023,28.013c2.628,1.501,4.878,5.253,4.878,8.38l0.251,56.401
+		c0,3.126-2.126,6.877-4.754,8.379l-48.772,28.513c-2.626,1.502-7.003,1.627-9.63,0.126L244.6,208.27
+		c-2.626-1.501-4.878-5.252-4.878-8.254L239.472,143.489z"/>
+	
+		<radialGradient id="hexa-yellow_1_" cx="283.0483" cy="451.4512" r="51.5757" gradientTransform="matrix(2.0407 0 0 -2.0407 -280.122 1040.2679)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FAEB0F"/>
+		<stop  offset="1" style="stop-color:#F1C309"/>
+	</radialGradient>
+	<path id="hexa-yellow" fill="url(#hexa-yellow_1_)" d="M297.5,233.533c-2.126,0-4.251-0.501-5.753-1.377l-54.901-31.265
+		c-3.251-1.875-5.878-6.377-5.878-10.129l-0.375-63.156c0-3.752,2.501-8.254,5.752-10.13l54.527-31.891
+		c1.625-0.875,3.752-1.375,5.878-1.375s4.252,0.5,5.752,1.375l54.902,31.265c3.251,1.876,5.877,6.379,5.877,10.13l0.376,63.155
+		c0,3.751-2.501,8.254-5.753,10.129l-54.525,31.891C301.877,233.031,299.751,233.533,297.5,233.533z"/>
+	<path id="hexa-white" fill="#C5A807" d="M296.875,85.085c1.875,0,3.877,0.375,5.378,1.251l54.901,31.265
+		c3,1.75,5.377,5.878,5.377,9.254l0.375,63.156c0,3.502-2.375,7.627-5.377,9.379l-54.526,31.889
+		c-1.501,0.875-3.503,1.251-5.503,1.251c-1.876,0-3.877-0.375-5.377-1.251l-54.902-31.265c-3-1.752-5.378-5.877-5.378-9.379
+		l-0.375-63.156c0-3.502,2.376-7.629,5.377-9.38l54.527-31.89C292.872,85.585,294.874,85.085,296.875,85.085 M296.875,83.209
+		L296.875,83.209c-2.376,0-4.627,0.501-6.378,1.625L235.971,116.6c-3.501,2.127-6.252,6.879-6.252,11.005l0.375,63.156
+		c0,4.127,2.875,8.879,6.378,10.88l54.901,31.266c1.751,1,3.878,1.501,6.252,1.501c2.377,0,4.628-0.501,6.379-1.627l54.524-31.891
+		c3.503-2.125,6.254-6.878,6.254-11.004l-0.375-62.905c0-4.127-2.877-8.88-6.377-10.881l-54.902-31.265
+		C301.376,83.71,299.126,83.209,296.875,83.209L296.875,83.209z"/>
+	
+		<linearGradient id="glow_2_" gradientUnits="userSpaceOnUse" x1="317.1152" y1="463.8936" x2="317.1152" y2="589.9958" gradientTransform="matrix(1 0 0 -1 -41.5 678)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.7"/>
+	</linearGradient>
+	<path id="glow_1_" opacity="0.7" fill="url(#glow_2_)" enable-background="new    " d="M260.857,213.897
+		c10.005-38.644,31.64-86.666,59.153-117.931l-17.884-9.63c-3.001-1.751-7.878-1.625-10.88,0l-54.65,31.89
+		c-3.002,1.751-5.378,6.003-5.378,9.38l0.375,63.28c0,3.503,2.501,7.63,5.503,9.379L260.857,213.897z"/>
+	
+		<linearGradient id="stroke-light_1_" gradientUnits="userSpaceOnUse" x1="339" y1="446.8604" x2="339" y2="592.4325" gradientTransform="matrix(1 0 0 -1 -41.5 678)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path id="stroke-light" fill="url(#stroke-light_1_)" d="M231.843,127.605l0.375,63.156c0,3.502,2.5,7.628,5.378,9.254
+		l54.901,31.265c3.002,1.751,7.878,1.627,10.755,0l54.525-31.889c3.002-1.752,5.379-5.877,5.379-9.379l-0.375-63.156
+		c0-3.502-2.503-7.629-5.378-9.38l-54.902-31.264c-3.002-1.751-7.878-1.626-10.755,0l-54.526,32.014
+		C234.22,119.977,231.843,124.229,231.843,127.605z M233.095,128.231c0-3.377,2.375-7.503,5.253-9.129l53.399-31.265
+		c2.877-1.751,7.629-1.751,10.506,0l53.775,30.64c2.876,1.625,5.376,5.752,5.376,9.129l0.377,61.905
+		c0,3.377-2.377,7.504-5.253,9.129l-53.4,31.265c-2.877,1.751-7.628,1.751-10.504,0l-53.776-30.639
+		c-2.877-1.626-5.378-5.751-5.378-9.129L233.095,128.231z"/>
+	<g id="JS_1_">
+		<path fill="#FFFFFF" d="M274.739,187.009c-4.127,0-7.503-0.75-10.38-2.377c-2.751-1.5-5.002-3.375-6.878-5.502l7.253-8.128
+			c1.5,1.626,3.001,3,4.502,3.876c1.5,0.876,3.251,1.376,5.001,1.376c2.251,0,3.877-0.625,5.128-2.001
+			c1.25-1.374,1.875-3.626,1.875-6.628v-33.891h11.882v34.392c0,3.126-0.376,5.877-1.251,8.128
+			c-0.875,2.252-2.126,4.253-3.627,5.877c-1.625,1.627-3.626,2.878-5.877,3.628C280.243,186.635,277.615,187.009,274.739,187.009z"
+			/>
+		<path fill="#FFFFFF" d="M323.887,187.009c-4.001,0-7.878-0.75-11.754-1.999c-3.877-1.377-7.379-3.503-10.506-6.38l6.878-8.128
+			c2.377,2.001,4.878,3.501,7.379,4.627c2.501,1.125,5.253,1.75,8.254,1.75c2.377,0,4.252-0.375,5.628-1.25s2.002-2.126,2.002-3.625
+			v-0.126c0-0.752-0.126-1.376-0.377-2.001c-0.249-0.625-0.75-1.125-1.625-1.626c-0.75-0.5-1.876-1-3.251-1.501
+			c-1.377-0.499-3.127-1-5.378-1.625c-2.627-0.625-5.128-1.375-7.254-2.127c-2.126-0.749-4.002-1.75-5.502-3
+			c-1.502-1.126-2.627-2.628-3.501-4.377c-0.876-1.752-1.251-3.879-1.251-6.504v-0.126c0-2.374,0.499-4.501,1.375-6.501
+			c0.876-1.876,2.127-3.627,3.751-5.003c1.627-1.376,3.502-2.501,5.753-3.252c2.252-0.75,4.752-1.126,7.379-1.126
+			c3.876,0,7.379,0.626,10.63,1.751c3.252,1.126,6.252,2.752,8.879,5.002l-6.002,8.754c-2.376-1.625-4.628-2.876-6.879-3.751
+			c-2.25-0.875-4.502-1.375-6.754-1.375c-2.25,0-3.876,0.5-5.001,1.251c-1.126,0.875-1.752,2-1.752,3.25v0.126
+			c0,0.874,0.126,1.625,0.501,2.25s0.874,1.25,1.75,1.75c0.876,0.501,2.001,1.002,3.502,1.376c1.501,0.375,3.377,1.001,5.628,1.625
+			c2.627,0.75,5.002,1.501,7.129,2.377c2.126,0.873,3.877,1.876,5.251,3.126c1.377,1.25,2.502,2.625,3.253,4.377
+			c0.751,1.625,1.126,3.625,1.126,5.876v0.126c0,2.626-0.501,4.876-1.375,6.878c-1.002,2-2.253,3.751-4.003,5.126
+			c-1.751,1.377-3.751,2.376-6.002,3.127C329.39,186.634,326.765,187.009,323.887,187.009z"/>
+	</g>
+	<g id="CHTI_1_">
+		<path fill="#575747" d="M229.592,58.072c-3.251-3.252-4.878-7.253-4.878-12.131c0-4.752,1.626-8.754,4.878-12.006
+			c3.251-3.251,7.253-4.877,12.006-4.877c4.877,0,9.004,1.5,12.505,4.501l-4.501,5.002c-2.252-1.75-5.002-2.75-7.879-2.75
+			c-3,0-5.502,1-7.379,2.876c-1.875,1.875-2.751,4.252-2.751,7.253c0,3.126,1,5.628,2.877,7.504c1.875,1.875,4.377,2.75,7.378,2.75
+			c3.001,0,5.628-0.875,7.878-2.627l4.503,5.003c-3.502,3.002-7.628,4.502-12.506,4.502
+			C236.846,62.949,232.844,61.324,229.592,58.072z"/>
+		<path fill="#575747" d="M261.358,62.949V29.059h6.753v13.506h15.756V29.059h6.754v33.891h-6.754V48.943h-15.756v14.006H261.358z"
+			/>
+		<path fill="#575747" d="M301.002,33.435h-0.25c-1.001,0-1.876-0.25-2.502-0.875c-0.625-0.625-0.875-1.375-0.875-2.25
+			c0-0.876,0.249-1.626,0.875-2.251c0.626-0.626,1.376-0.875,2.502-0.875c1.125,0,1.875,0.25,2.501,0.875
+			c0.625,0.625,0.875,1.375,0.875,2.251v0.125c0,3.627-1.501,6.252-4.502,7.754l-1.126-2
+			C299.751,35.687,300.502,34.686,301.002,33.435z"/>
+		<path fill="#575747" d="M339.895,29.059v6.377h-11.254v27.513h-6.754V35.436h-11.256v-6.377H339.895z"/>
+		<path fill="#575747" d="M344.898,29.059h6.752v33.891h-6.752V29.059z"/>
+	</g>
+</g>
+</svg>
